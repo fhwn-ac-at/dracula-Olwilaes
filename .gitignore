@@ -1,0 +1,11 @@
+# macOS system file
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Compiled object files
+*.o
+
+# Executable
+snakesAndLaddersSimulator

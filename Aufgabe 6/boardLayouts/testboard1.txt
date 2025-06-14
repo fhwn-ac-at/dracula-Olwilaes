@@ -1,0 +1,13 @@
+rows 10
+cols 10
+die 6
+simulation 1000
+ladder 5 10
+ladder 15 25
+ladder 22 41
+ladder 44 68
+ladder 70 91
+snake 98 75
+snake 87 24
+snake 62 19
+snake 48 11
